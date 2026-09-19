@@ -1,14 +1,18 @@
 # Changelog
 
-## [0.2.1a2](https://github.com/OpenVoiceOS/wyoming-ovos-tts/tree/0.2.1a2) (2026-09-18)
+## [0.2.1a3](https://github.com/OpenVoiceOS/wyoming-ovos-tts/tree/0.2.1a3) (2026-09-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/wyoming-ovos-tts/compare/0.2.1a1...0.2.1a2)
+[Full Changelog](https://github.com/OpenVoiceOS/wyoming-ovos-tts/compare/0.2.1a2...0.2.1a3)
 
 **Merged pull requests:**
 
 - fix: add run\(\) entry point so the console script can start [\#8](https://github.com/OpenVoiceOS/wyoming-ovos-tts/pull/8) ([JarbasAl](https://github.com/JarbasAl))
 - docs: add NLnet/NGI0 attribution [\#4](https://github.com/OpenVoiceOS/wyoming-ovos-tts/pull/4) ([JarbasAl](https://github.com/JarbasAl))
 - Configure Renovate [\#1](https://github.com/OpenVoiceOS/wyoming-ovos-tts/pull/1) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.2.1a2](https://github.com/OpenVoiceOS/wyoming-ovos-tts/tree/0.2.1a2) (2026-09-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/wyoming-ovos-tts/compare/0.2.1a1...0.2.1a2)
 
 ## [0.2.1a1](https://github.com/OpenVoiceOS/wyoming-ovos-tts/tree/0.2.1a1) (2026-08-01)
 
